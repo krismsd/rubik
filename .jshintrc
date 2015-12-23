@@ -1,0 +1,7 @@
+{
+  "esnext": true,
+  "undef": false,
+  "globals": {
+    "THREE": true
+  }
+}
